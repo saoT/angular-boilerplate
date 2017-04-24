@@ -1,3 +1,13 @@
+# Angular Boilerplate
+
+On va utiliser un projet déjà existant de boilerplate que j'ai **très** légèrement modifier pour se rapprocher plus d'une architecture angular habituelle. Comme ça on peut direct entrer dans le vif du sujet.
+Quelques ressources supplémentaires :
++ [Le projet initial] : (https://github.com/Foxandxss/angular-webpack-workflow my_app)
++ [plus de lecture sur angular et webpack] : (http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/)
++ [Différence entre service et factory] : (https://toddmotto.com/factory-versus-service)
+
+Readme du projet :
+
 # angularjs-webpack
 
 [![Dependency Status](https://david-dm.org/preboot/angularjs-webpack/status.svg)](https://david-dm.org/preboot/angular-webpack#info=dependencies) [![devDependency Status](https://david-dm.org/preboot/angularjs-webpack/dev-status.svg)](https://david-dm.org/preboot/angularjs-webpack#info=devDependencies)
